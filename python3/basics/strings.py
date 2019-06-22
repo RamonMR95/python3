@@ -34,4 +34,3 @@ print(my_str.count("s"))
 print(my_str.upper())
 print(my_str.lower())
 print(my_str.title())
-

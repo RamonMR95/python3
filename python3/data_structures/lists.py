@@ -19,3 +19,30 @@ my_list.remove(10)
 del(my_list[2])
 print(my_list)
 
+# REMOVING ALL ELEMENTS
+my_list.clear()
+
+# FUNCTIONS
+my_list2 = [10, 23, 30.5]
+print(max(my_list2))
+print(min(my_list2))
+my_list2.sort()
+print(my_list2)
+my_list2.sort(reverse=True)
+print(my_list2)
+
+
+list_var = [12, 24]
+print(list_var)
+
+list_var.append(5)
+print(list_var)
+
+list_var.pop()
+list_var.pop(1)
+print(list_var)
+
+
+
+
+
