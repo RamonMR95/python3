@@ -1,0 +1,8 @@
+CRITICAL:root:critical
+ERROR:root:Error
+CRITICAL:root:critical
+ERROR:root:Error
+WARNING:root:warning
+INFO:root:info
+DEBUG:root:debug
+ERROR:root:Division by zero
